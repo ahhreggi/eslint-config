@@ -11,10 +11,10 @@
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:prettier/recommended",
-    "prettier/react",
+    "prettier/react"
   ],
   "plugins": [
-    "react-hooks",
+    "react-hooks"
   ],
   "rules": {
     "import/no-named-as-default": 0,
