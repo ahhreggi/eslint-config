@@ -1,11 +1,11 @@
 {
-  "name": "eslint-config",
+  "name": "@ahhreggi/eslint-config",
   "description": "Simple ESlint config file for React apps",
   "version": "1.0.0",
   "author": "Maria Regina Sirilan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahhreggi/eslint-config"
+    "url": "git+https://github.com/ahhreggi/eslint-config.git"
   },
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,10 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.3.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ahhreggi/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ahhreggi/eslint-config#readme",
+  "dependencies": {}
 }
